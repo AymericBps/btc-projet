@@ -1,0 +1,15 @@
+{
+    "name": "bompa/dev_projet",
+    "autoload": {
+        "psr-4": {
+            "Bompa\\DevProjet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AymericBps",
+            "email": "aymeric.bompais@gmail.com"
+        }
+    ],
+    "require": {}
+}
